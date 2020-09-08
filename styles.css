@@ -1,0 +1,104 @@
+    h1{
+        margin-left: auto;
+        margin-right: auto;
+        color: slategrey;
+        font-family: 'Helvetica', 'Arial', sans-serif; font-size: 400%;
+    }
+    .centerText{
+        padding: 15px;
+        text-align: center;
+    }
+    .plainText{
+        padding: 10px;
+        color: slategrey;
+        font-family: Courier New, Courier, Lucida Sans Typewriter;
+    }
+    .objCenter{
+        width: 200px;
+        height: 200px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .buttonText{
+        float: right;
+        padding-top: 5px
+    }
+    .padRow{
+        padding-top: 20px
+    }
+    hr{
+        height: 3px;
+        color:gray;
+        background-color:gray
+    }
+    .headerSkills2{
+        padding-left: 10px
+    }
+    .headerSkills3{
+        padding-left: 20px
+    }
+    small{
+        padding-right: 10px;
+        color: slategrey;
+        font-size: 18px;
+        font-style: italic;
+    }
+    .padLeft{
+        padding-left: 50px
+    }
+    .skillsText{
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+    .skillsRow{
+        vertical-align: top
+    }
+    .skillsColLeft{
+        width: 70%;
+        background-color: #e4ccff;
+        border: 3px solid white
+    }
+    .skillsColRight{
+        width: 70%;
+        background-color: palegreen;
+        border: 3px solid white
+    }
+    table{
+        width: 100%;
+        font-family: Courier New, Courier, Lucida Sans Typewriter;
+    }
+    .education{
+        margin-right: auto;
+        margin-left: auto;
+        padding: 10px;
+        text-align: center;
+        font-family: Courier New, Courier, Lucida Sans Typewriter;
+        text-align: center;
+        background-color: lightblue;
+    }
+    .projects{
+        font-family: Courier New, Courier, Lucida Sans Typewriter;
+    }
+    .projectsText{
+        background: lightgreen;
+        padding: 10px;
+        text-align: center;
+        border: 10px white solid;
+    }
+    .projectsImg{
+        padding: 10px;
+        border: 10px white solid;
+    }
+    .projectsRow{
+        height: 200px
+    }
+    .projectsImjObj{
+        max-width: 100%;
+        max-height: 100%
+    }
+    .projectsImjObj:hover{
+        opacity: .5;
+    }
+    p{
+        font-size: 18px
+    }
